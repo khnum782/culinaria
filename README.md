@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="#">
+  <img alt="License" src="./assets/capa.png">
 </p>
 
 <br>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto responsivo de página de receita de um delicioso Cheesecake é desenvolvido no nível 03 do Explorer, o programa completo da Rocketseat que te leva do zero até sua primeira vaga como dev.
 
-- [Visite o projeto online] (https://effulgent-hotteok-de58a6.netlify.app)
+- [Visite o projeto online] (https://khnum782.github.io/culinaria/)
 
 ## 🔖 Layout
 
